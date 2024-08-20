@@ -1,0 +1,13 @@
+body {
+    background-image: url('c:\Users\DELL\Desktop\3c24462450c2a902bf7e18f3d9aada81.jpg');
+    background-size: cover; /* Cover the entire page */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+  }
+  
+  .card {
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent background for the card */
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
